@@ -28,3 +28,4 @@ Welcome to my GitHub profile! I'm passionate about **software development** and 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandalfer&layout=compact&theme=radical)
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
