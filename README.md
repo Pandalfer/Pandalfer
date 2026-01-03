@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm passionate about **software development** and 
 <br>        
 <br>
 
-![Pandalfer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandalfer&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandalfer&layout=compact&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pandalfer&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pandalfer&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pandalfer&theme=radical)
 
 ![snake gif](https://github.com/Pandalfer/Pandalfer/blob/output/github-snake-dark.svg)
